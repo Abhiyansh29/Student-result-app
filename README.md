@@ -1,1 +1,0 @@
-# Student-result-app
